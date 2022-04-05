@@ -16,3 +16,8 @@ Stuff that i learn and apply into this project.
 - How to get user input using ```prompt``` function
 - How to iterate and keep a counter for a loop
 
+## Update
+
+    Added UI as told in the Revisiting lesson
+
+    
